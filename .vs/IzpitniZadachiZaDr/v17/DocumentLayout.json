@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5825882-0C7F-4F4A-A204-6AA6C8636FD8}|GeneratorZaTupiParoli\\GeneratorZaTupiParoli.csproj|c:\\users\\admin\\source\\repos\\izpitnizadachizadr\\generatorzatupiparoli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5825882-0C7F-4F4A-A204-6AA6C8636FD8}|GeneratorZaTupiParoli\\GeneratorZaTupiParoli.csproj|solutionrelative:generatorzatupiparoli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564AC2E2-AC14-42C8-9D08-4C89C516246D}|MagicNUmbers\\MagicNUmbers.csproj|c:\\users\\admin\\source\\repos\\izpitnizadachizadr\\magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564AC2E2-AC14-42C8-9D08-4C89C516246D}|MagicNUmbers\\MagicNUmbers.csproj|solutionrelative:magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7625318B-5C90-4C15-B809-9101AA78AD5D}|Peperuda\\Peperuda.csproj|c:\\users\\admin\\source\\repos\\izpitnizadachizadr\\peperuda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7625318B-5C90-4C15-B809-9101AA78AD5D}|Peperuda\\Peperuda.csproj|solutionrelative:peperuda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2FC885-2B48-40CF-8042-0075EDFEC374}|ChertanenaKrepost\\ChertanenaKrepost.csproj|c:\\users\\admin\\source\\repos\\izpitnizadachizadr\\chertanenakrepost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2FC885-2B48-40CF-8042-0075EDFEC374}|ChertanenaKrepost\\ChertanenaKrepost.csproj|solutionrelative:chertanenakrepost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00BFB4F-8AB1-4CB9-8F05-5C3D62B02301}|DeleneBezOstatuk\\DeleneBezOstatuk.csproj|c:\\users\\admin\\source\\repos\\izpitnizadachizadr\\delenebezostatuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00BFB4F-8AB1-4CB9-8F05-5C3D62B02301}|DeleneBezOstatuk\\DeleneBezOstatuk.csproj|solutionrelative:delenebezostatuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5047AC82-959B-43A0-ACA3-2B9E3EE36CD0}|IzpitniZadachiZaDr\\IzpitniZadachiZaDr.csproj|c:\\users\\admin\\source\\repos\\izpitnizadachizadr\\izpitnizadachizadr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5047AC82-959B-43A0-ACA3-2B9E3EE36CD0}|IzpitniZadachiZaDr\\IzpitniZadachiZaDr.csproj|solutionrelative:izpitnizadachizadr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\MagicNUmbers\\Program.cs",
+              "RelativeDocumentMoniker": "MagicNUmbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\MagicNUmbers\\Program.cs",
+              "RelativeToolTip": "MagicNUmbers\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T19:23:36.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\GeneratorZaTupiParoli\\Program.cs",
+              "RelativeDocumentMoniker": "GeneratorZaTupiParoli\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\GeneratorZaTupiParoli\\Program.cs",
+              "RelativeToolTip": "GeneratorZaTupiParoli\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T19:14:12.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\Peperuda\\Program.cs",
+              "RelativeDocumentMoniker": "Peperuda\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\Peperuda\\Program.cs",
+              "RelativeToolTip": "Peperuda\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T19:07:10.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\ChertanenaKrepost\\Program.cs",
+              "RelativeDocumentMoniker": "ChertanenaKrepost\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\ChertanenaKrepost\\Program.cs",
+              "RelativeToolTip": "ChertanenaKrepost\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T18:57:24.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\DeleneBezOstatuk\\Program.cs",
+              "RelativeDocumentMoniker": "DeleneBezOstatuk\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\DeleneBezOstatuk\\Program.cs",
+              "RelativeToolTip": "DeleneBezOstatuk\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T18:52:50.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\IzpitniZadachiZaDr\\Program.cs",
+              "RelativeDocumentMoniker": "IzpitniZadachiZaDr\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IzpitniZadachiZaDr\\IzpitniZadachiZaDr\\Program.cs",
+              "RelativeToolTip": "IzpitniZadachiZaDr\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvx8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T18:48:07.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\Peperuda\bin\Debug\Peperuda.exe.config
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\Peperuda\bin\Debug\Peperuda.exe
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\Peperuda\bin\Debug\Peperuda.pdb
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\Peperuda\obj\Debug\Peperuda.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\Peperuda\obj\Debug\Peperuda.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\Peperuda\obj\Debug\Peperuda.exe
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\Peperuda\obj\Debug\Peperuda.pdb

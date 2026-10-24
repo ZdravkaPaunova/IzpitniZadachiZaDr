@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\IzpitniZadachiZaDr\bin\Debug\IzpitniZadachiZaDr.exe.config
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\IzpitniZadachiZaDr\bin\Debug\IzpitniZadachiZaDr.exe
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\IzpitniZadachiZaDr\bin\Debug\IzpitniZadachiZaDr.pdb
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\IzpitniZadachiZaDr\obj\Debug\Histogram.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\IzpitniZadachiZaDr\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\IzpitniZadachiZaDr\obj\Debug\IzpitniZadachiZaDr.exe
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\IzpitniZadachiZaDr\obj\Debug\IzpitniZadachiZaDr.pdb

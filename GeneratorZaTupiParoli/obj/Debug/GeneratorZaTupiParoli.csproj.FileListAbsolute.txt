@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\GeneratorZaTupiParoli\bin\Debug\GeneratorZaTupiParoli.exe.config
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\GeneratorZaTupiParoli\bin\Debug\GeneratorZaTupiParoli.exe
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\GeneratorZaTupiParoli\bin\Debug\GeneratorZaTupiParoli.pdb
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\GeneratorZaTupiParoli\obj\Debug\GeneratorZaTupiParoli.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\GeneratorZaTupiParoli\obj\Debug\GeneratorZaTupiParoli.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\GeneratorZaTupiParoli\obj\Debug\GeneratorZaTupiParoli.exe
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\GeneratorZaTupiParoli\obj\Debug\GeneratorZaTupiParoli.pdb

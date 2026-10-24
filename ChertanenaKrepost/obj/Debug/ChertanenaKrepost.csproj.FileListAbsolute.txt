@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\ChertanenaKrepost\obj\Debug\ChertanenaKrepost.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\ChertanenaKrepost\obj\Debug\ChertanenaKrepost.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\ChertanenaKrepost\bin\Debug\ChertanenaKrepost.exe.config
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\ChertanenaKrepost\bin\Debug\ChertanenaKrepost.exe
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\ChertanenaKrepost\bin\Debug\ChertanenaKrepost.pdb
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\ChertanenaKrepost\obj\Debug\ChertanenaKrepost.exe
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\ChertanenaKrepost\obj\Debug\ChertanenaKrepost.pdb

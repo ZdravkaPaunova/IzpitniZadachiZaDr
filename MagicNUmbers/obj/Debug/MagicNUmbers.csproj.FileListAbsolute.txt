@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\MagicNUmbers\bin\Debug\MagicNUmbers.exe.config
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\MagicNUmbers\bin\Debug\MagicNUmbers.exe
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\MagicNUmbers\bin\Debug\MagicNUmbers.pdb
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\MagicNUmbers\obj\Debug\MagicNUmbers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\MagicNUmbers\obj\Debug\MagicNUmbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\MagicNUmbers\obj\Debug\MagicNUmbers.exe
+C:\Users\Admin\source\repos\IzpitniZadachiZaDr\MagicNUmbers\obj\Debug\MagicNUmbers.pdb
